@@ -1,7 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
 // import AppNews from './components/AppNews'
-import App from './components/App'
+// import App from './components/App'
+import App from './components/Api'
 
 // function HellowWorld() {
 //     return(
